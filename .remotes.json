@@ -1,0 +1,8 @@
+[
+  {
+    "package": "coinclp",
+    "url": "https://github.com/SamLovick/coinclp",
+    "via": ["ROI.plugin.coinclp"],
+    "from": "ROI.plugin.coinclp"
+  }
+]
